@@ -20,7 +20,7 @@ I'm **Vitor Gultzgoff**, software engineer who likes **creating user experiences
 
 <p align="center">
 <a href="https://github.com/vitorgultzgoff">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vitorgultzgoff&show_icons=true&theme=algolia&include_all_commits=true&count_ =true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vitorgultzgoff&show_icons=true&theme=algolia&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vitorgultzgoff&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
