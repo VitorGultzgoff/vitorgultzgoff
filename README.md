@@ -14,7 +14,7 @@ I'm **Vitor Gultzgoff**, software engineer who likes **creating user experiences
 - ⌨️ Always enthusiastic about split keyboards, currently using [ZSA Moonlander Mark I](https://www.zsa.io/moonlander/)
 - ⚡ Technologies: Ruby, SQL, TypeScript, JavaScript, React, Node, Java, React Native, HTML, CSS
 - 🌐 Languages: 🇺🇸 English and 🇧🇷 Portuguese
-- ✍🏻 Learning languages: 🇫🇷 French and 🇰🇷 Korean
+- ✍🏻 Learning languages: 🇫🇷 French
 
 ### ⚙️ &nbsp;GitHub Analytics
 
