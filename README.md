@@ -4,7 +4,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-I'm **Vitor Gultzgoff**, software engineer who likes **creating user experiences** as much as **queries**.
+I'm **Vitor Gultzgoff**, senior software engineer who likes **creating user experiences** as much as **queries**.
 
 - 👨‍💻 I’m currently working at <img src="https://ucarecdn.com/974251ab-f294-4dfe-82f1-bff3d3b13649/faviconpotloc1.png" width="20" /> [Potloc](https://www.potloc.com/) facing exciting challenges using Ruby, Typescript & GraphqL
 - 🏡 Living in Montreal - 🇨🇦 Canada
@@ -15,15 +15,6 @@ I'm **Vitor Gultzgoff**, software engineer who likes **creating user experiences
 - ⚡ Technologies: Ruby, SQL, TypeScript, JavaScript, React, Node, Java, React Native, HTML, CSS
 - 🌐 Languages: 🇺🇸 English and 🇧🇷 Portuguese
 - ✍🏻 Learning languages: 🇫🇷 French
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/vitorgultzgoff">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vitorgultzgoff&show_icons=true&theme=algolia&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vitorgultzgoff&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
 
 ### 🤝🏻 &nbsp;Connect with me
 
