@@ -4,12 +4,11 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-I'm **Vitor Gultzgoff**, senior software engineer who likes **creating user experiences** as much as **queries**.
+I'm **Vitor Gultzgoff**, software developer who likes **creating user experiences** as much as **queries**.
 
 - 👨‍💻 I’m currently working at <img src="https://ucarecdn.com/974251ab-f294-4dfe-82f1-bff3d3b13649/faviconpotloc1.png" width="20" /> [Potloc](https://www.potloc.com/) facing exciting challenges using Ruby, Typescript & GraphqL
 - 🏡 Living in Montreal - 🇨🇦 Canada
 - 💬 Count me in chatting about 🖥️ tech, 🧑🏻‍🚀 astronomy, 🥋 jiu-jitsu, and 📊 financial
-- 📖 I’m currently learning Go
 - 😍 I love refactors & the process of redefining the design system for a scalable one
 - ⌨️ Always enthusiastic about split keyboards, currently using [ZSA Moonlander Mark I](https://www.zsa.io/moonlander/)
 - ⚡ Technologies: Ruby, SQL, TypeScript, JavaScript, React, Node, Java, React Native, HTML, CSS
